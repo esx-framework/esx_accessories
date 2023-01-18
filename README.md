@@ -7,13 +7,13 @@ Shops with accessories (hat/helmet, glasses, masks, ears accessories). You can p
 ## Requirements
 
 - [esx_skin](https://github.com/esx-framework/esx-legacy/tree/main/%5Besx%5D/esx_skin)
-- [esx_datastore](https://github.com/esx-framework/esx-legacy/tree/main/%5Besx_addons%5D/esx_datastore)
+- [esx_datastore](https://github.com/esx-framework/esx_datastore)
 
 ## Legal
 
 esx_accessories - accessories 4 you!
 
-Copyright (C) 2015-2022 ESX-Framework
+Copyright (C) 2015-2023 ESX-Framework
 
 This program Is free software: you can redistribute it And/Or modify it under the terms Of the GNU General Public License As published by the Free Software Foundation, either version 3 Of the License, Or (at your option) any later version.
 
