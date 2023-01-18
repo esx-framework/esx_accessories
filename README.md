@@ -1,4 +1,4 @@
-<h1 align='center'>[ESX] Accessories</a></h1><p align='center'><b><a href='https://discord.esx-framework.org/'>Discord</a> - <a href='https://esx-framework.org/'>Website</a> - <a href='https://docs.esx-framework.org/legacy/installation'>Documentation</a></b></h5>
+<h1 align='center'>[ESX] Accessories</a></h1><p align='center'><b><a href='https://discord.esx-framework.org/'>Discord</a> - <a href='https://esx-framework.org/'>Website</a> - <a href='https://documentation.esx-framework.org/legacy/installation'>Documentation</a></b></h5>
 
 Shops with accessories (hat/helmet, glasses, masks, ears accessories). You can put on or take off the accessories with a menu. Accessories saved in database.
 
