@@ -6,8 +6,8 @@ Shops with accessories (hat/helmet, glasses, masks, ears accessories). You can p
 
 ## Requirements
 
-- [esx_skin](https://github.com/esx-framework/esx-legacy/tree/main/%5Besx%5D/esx_skin)
-- [esx_datastore](https://github.com/esx-framework/esx_datastore)
+- [esx_skin](https://github.com/esx-framework/esx-core/tree/main/%5Bcore%5D/esx_skin)
+- [esx_datastore](https://github.com/esx-framework/esx_datastore) 
 
 ## Legal
 
