@@ -16,4 +16,5 @@ Locales ['pl'] = {
   ['no_helmet'] = 'nie posiadasz nakrycia głowy',
   ['no_mask'] = 'nie posiadasz maski',
   ['you_paid'] = 'płacisz %s $',
+  ['keymap'] = 'Open Accessory Menu', --not translated
 }
