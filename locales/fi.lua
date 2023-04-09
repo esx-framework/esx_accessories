@@ -16,4 +16,5 @@ Locales ['fi'] = {
   ['no_helmet'] = 'sinulla ei ole kypäriä',
   ['no_mask'] = 'sinulla ei ole maskeja',
   ['you_paid'] = 'sinä maksoit $%s',
+  ['keymap'] = 'Open Accessory Menu', --not translated
 }
