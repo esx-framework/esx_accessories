@@ -16,4 +16,5 @@ Locales ['en'] = {
   ['no_helmet'] = 'you do not have a helmet',
   ['no_mask'] = 'you do not have a mask',
   ['you_paid'] = 'you paid $%s',
+  ['keymap'] = 'Open Accessory Menu', --not translated
 }
