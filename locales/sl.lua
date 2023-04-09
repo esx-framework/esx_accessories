@@ -16,4 +16,5 @@ Locales ['sl'] = {
   ['no_helmet'] = 'Vi nimate kape/klobuka',
   ['no_mask'] = 'Vi nimate maske!',
   ['you_paid'] = 'Vi ste plačali $%s',
+  ['keymap'] = 'Open Accessory Menu', --not translated
 }
