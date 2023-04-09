@@ -16,4 +16,5 @@ Locales ['hu'] = {
   ['no_helmet'] = 'Nincsen sapkád',
   ['no_mask'] = 'Nincsen maszkod',
   ['you_paid'] = 'Fizettél $%s',
+  ['keymap'] = 'Open Accessory Menu', --not translated
 }
