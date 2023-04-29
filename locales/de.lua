@@ -1,6 +1,6 @@
 Locales ['de'] = {
   ['valid_purchase'] = 'Kauf bestätigen?',
-  ['yes'] = 'Ja (<span style="color: green;">$%s</span>)',
+  ['yes'] = 'Ja (<span style="color: green;">%s€</span>)',
   ['no'] = 'Nein',
   ['helmet'] = 'Helm / Hut',
   ['glasses'] = 'Brille',
@@ -16,5 +16,5 @@ Locales ['de'] = {
   ['no_helmet'] = 'Du hast keinen Helm / Hut',
   ['no_mask'] = 'Du hast keine Maske',
   ['you_paid'] = 'Du zahlst %s€',
-  ['keymap'] = 'Open Accessory Menu', --not translated
+  ['keymap'] = 'Accessoir Menü Öffnen',
 }
