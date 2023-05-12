@@ -16,5 +16,5 @@ Locales ['sr'] = {
   ['no_helmet'] = 'nemate kacigu',
   ['no_mask'] = 'nemate masku',
   ['you_paid'] = 'platili ste $%s',
-  ['keymap'] = 'Otvori Meni Dodataka', --not translated
+  ['keymap'] = 'Otvori Meni Dodataka',
 }
