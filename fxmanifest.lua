@@ -2,7 +2,7 @@ fx_version 'adamant'
 
 game 'gta5'
 
-description 'ESX Accessories'
+description 'Provides a way for players to customise their appearence with accessories)'
 lua54 'yes'
 
 version '1.1' 
