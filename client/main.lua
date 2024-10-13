@@ -224,11 +224,9 @@ CreateThread(function()
 end)
 
 if Config.EnableControls then
-	RegisterCommand("accessory", function(src)
+	ESX.RegisterInput('accessory', TranslateCap('keymap'), 'keyboard', 'j', function()
 		if not ESX.PlayerData.dead then
 			OpenAccessoryMenu()
 		end
 	end)
-
-	RegisterKeyMapping("accessory", TranslateCap('keymap'), "keyboard", "k")
 end
